@@ -30,19 +30,19 @@ We will only evaluate the client side code and the criteria will be based mainly
 
 The user can search a username of GitHub
 
-![](https://github.com/gerardcobas/JuniorFrontendTest/blob/master/images/First-Screen.png)
+![](https://drive.google.com/open?id=1V19nQhn7Bn3E-sBNBFtFJIatSaqLUoUj)
 
 #### Success Screen
 
 If the searched username does exist: The searched user profile is displayed with all his repositories
 
-![](https://github.com/gerardcobas/JuniorFrontendTest/blob/master/images/Success-screen.png)
+![](https://drive.google.com/open?id=1LHyqNTFVQZQ1tdidLXLrCOxo0w6JK9oa)
 
 #### Error Screen
 
 If the searched username does not exist: An error is shown
 
-![](https://github.com/gerardcobas/JuniorFrontendTest/blob/master/images/Error-screen.png)
+![](https://drive.google.com/open?id=1uIajOBQvo4ugtoxkga8KPbY5x2PlHh0j)
 
 
 
