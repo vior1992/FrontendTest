@@ -2,21 +2,20 @@
 
 ## GOALS
 
-
 #### The main goal of this tech test is to create a client side web application that reproduces the screenshots below by using [GitHub API](https://developer.github.com/v3/) .
 
 We will only evaluate the client side code and the criteria will be based mainly on:
 
 1. Good use of **pure Javascript** language without external libraries and frameworks like jQuery, React...
 2. Clean HTML and CSS markup
-3. Clean, maintainable & easy­to­read
+3. Clean, maintainable & easy-to-read
 4. Good architectural practices
 
 ## HOW TO START
 
-1. Investigate the github api calls for user and repos (for example: test them in the browser)
-2. Fork this repository & cd into the directory
-3. Launch the web application, for example with: python -m SimpleHTTPServer 1337
+1. Investigate the GitHub API calls for `user` and `repos` (for example: test them in the browser)
+2. Fork this repository & enter into the directory
+3. Launch the web application, for example with: `python -m SimpleHTTPServer 1337`
 4. Open the browser with http://localhost:1337/ and start coding!
 
 ## NOT REQUIRED, BUT IMPRESSIVE
