@@ -21,6 +21,9 @@ We will only evaluate the client side code and the criteria will be based mainly
 ## NOT REQUIRED, BUT IMPRESSIVE
 
 - Adding Unit Testing. External libraries limitation doesn't apply here, you can use Jasmine, Karma...
+- Build System (browseriy, webpack, parcel..)
+- Keep in consideration browsers support
+- ES6+
 
 
 ## SCREENSHOTS
