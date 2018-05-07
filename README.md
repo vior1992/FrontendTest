@@ -38,7 +38,7 @@ The user can search a username of GitHub
 
 If the searched username does exist: The searched user profile is displayed with all his repositories
 
-![](https://drive.google.com/uc?export=view&id=1LHyqNTFVQZQ1tdidLXLrCOxo0w6JK9o)
+![](https://drive.google.com/uc?export=view&id=1LHyqNTFVQZQ1tdidLXLrCOxo0w6JK9oa)
 
 #### Error Screen
 
