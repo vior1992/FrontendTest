@@ -32,19 +32,19 @@ We will only evaluate the client side code and the criteria will be based mainly
 
 The user can search a username of GitHub
 
-![](https://drive.google.com/open?id=1V19nQhn7Bn3E-sBNBFtFJIatSaqLUoUj)
+![](https://doc-0k-50-docs.googleusercontent.com/docs/securesc/6o3bmeq76g8td4chjnab71pu7m2rt7na/hi8js16m5p9vtukefc7t161cvqchv0jt/1525694400000/03359671882345547890/03359671882345547890/1V19nQhn7Bn3E-sBNBFtFJIatSaqLUoUj?h=04697923248607655012&e=view)
 
 #### Success Screen
 
 If the searched username does exist: The searched user profile is displayed with all his repositories
 
-![](https://drive.google.com/open?id=1LHyqNTFVQZQ1tdidLXLrCOxo0w6JK9oa)
+![](https://doc-14-50-docs.googleusercontent.com/docs/securesc/6o3bmeq76g8td4chjnab71pu7m2rt7na/fi0i3ksrn5fl97424kv5acuepma0qr4j/1525694400000/03359671882345547890/03359671882345547890/1LHyqNTFVQZQ1tdidLXLrCOxo0w6JK9oa?h=04697923248607655012&e=view)
 
 #### Error Screen
 
 If the searched username does not exist: An error is shown
 
-![](https://drive.google.com/open?id=1uIajOBQvo4ugtoxkga8KPbY5x2PlHh0j)
+![](https://doc-14-50-docs.googleusercontent.com/docs/securesc/6o3bmeq76g8td4chjnab71pu7m2rt7na/etoee7pqqg7alk0fhevcd1i4i5i1h17j/1525694400000/03359671882345547890/03359671882345547890/1uIajOBQvo4ugtoxkga8KPbY5x2PlHh0j?h=04697923248607655012&e=view)
 
 
 
