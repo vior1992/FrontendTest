@@ -1,0 +1,115 @@
+* { margin: 0; }
+
+body { 
+    background-color: #f0f0f0; 
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+}
+
+#container__section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+}
+
+#search__form { 
+    background-color: #ffffff; 
+    width: 80%; 
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow:  6px 6px 14px 14px #a5a5a5;
+    margin-top: 10%;
+    align-items: center;
+}
+
+#formulary__section {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+#form__input {
+    height: 50px;
+    width: 750px;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    color: #b5b6c5;
+    padding: 10px;
+    font-size: 20px;
+    margin: 0px 10px;
+}
+
+#form__button {
+    height: 70px;
+    width: 150px;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    color: #494945;
+    background-color: #f0f0f0;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0px 10px;
+}
+
+#user__section {
+    background-color: #ffffff; 
+    width: 80%; 
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    align-items: row;
+    padding: 20px;
+    flex-direction: row;
+}
+
+#user__info {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+
+#repos__info {
+    background-color: #ffffff; 
+    width: 80%; 
+    height: 150px;
+    display: flex;
+    border-radius: 10px;
+    align-items: center;
+    padding: 20px;
+    flex-direction: column;
+    overflow: auto;
+}
+
+#repository__section{
+    
+}
+
+#error {
+    width: 90%; 
+    background-color: #fbdede;
+    color: #a85053;
+    border: 1px solid #dfc2c2;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 30px 10px;
+}
