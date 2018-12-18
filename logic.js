@@ -2,18 +2,6 @@ const logic = {
     _baseUrl: "https://api.github.com",
     _meth: "GET",
 
-    // _call(path) {
-    //     return fetch(`${this._baseUrl}/users/${path}`, {
-    //       method: this._meth
-    //     })
-    //       .then(res => res.json())
-    //       .then(res => {
-    //         if (res.error) throw Error(res.error)
-    
-    //         return res
-    //       })
-    //   },
-
     async _call(query) {
             const response = await fetch(`${this._baseUrl}/users/${query}`, {meth: this._meth})
 

@@ -30,7 +30,7 @@ body {
     flex-direction: column;
     border-radius: 10px;
     padding: 20px;
-    box-shadow:  6px 6px 14px 14px #a5a5a5;
+    box-shadow:  4px 14px 14px 4px #a5a5a5;
     margin-top: 10%;
     align-items: center;
 }
@@ -50,6 +50,7 @@ body {
     padding: 10px;
     font-size: 20px;
     margin: 0px 10px;
+    outline: none;
 }
 
 #form__button {
@@ -63,6 +64,7 @@ body {
     font-size: 24px;
     font-weight: bold;
     margin: 0px 10px;
+    outline: none;
 }
 
 #user__section {
