@@ -2,10 +2,31 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>Hello!</title>
+    <link rel="stylesheet" href="./styles/style.css">
 </head>
 <body>
-
-<h1>Hello!</h1>
+    <div id="container">
+        <div id="container__section">
+            <form id="search__form" value="">
+                <div id="formulary__section">
+                    <input
+                        id="form__input" 
+                        type="text" name="input" 
+                        placeholder="Search username..."
+                    />
+                    <button 
+                        id="form__button" 
+                        type="submit"
+                    >
+                        Search
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+    
+    <script src="./scripts/logic/logic.js"></script>
+    <script src="./scripts/view.js"></script>
+    <script src="./scripts/main.js"></script>
 </body>
 </html>

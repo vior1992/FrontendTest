@@ -1,0 +1,142 @@
+* { margin: 0; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+
+body { 
+    background-color: #f0f0f0; 
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+}
+
+#container__section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+}
+
+#search__form { 
+    background-color: #ffffff; 
+    width: 80%; 
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow:  4px 14px 14px 4px #a5a5a5;
+    margin-top: 5%;
+}
+
+#formulary__section {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+#form__input {
+    height: 50px;
+    width: 750px;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    color: #b5b6c5;
+    padding: 10px;
+    font-size: 20px;
+    margin: 0px 10px;
+    outline: none;
+}
+
+#form__button {
+    height: 70px;
+    width: 150px;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    color: #494945;
+    background-color: #f0f0f0;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0px 10px;
+    outline: none;
+}
+
+#user__section {
+    display: flex;
+    padding: 30px;
+}
+
+#user__avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+
+#user__info {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+#repos__title {
+    border-bottom: 3px solid black;
+    padding-bottom: 10px;
+}
+
+#repos__info {
+    width: auto;
+    height: 150px;
+    display: flex;
+    border-radius: 10px;
+    padding: 20px;
+    flex-direction: column;
+    overflow: auto;
+}
+
+#repository__section {
+    padding: 10px;
+    border-bottom: 1px solid gray;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    min-height: 50px;
+}
+
+#repository__name{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#repository__info {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+}
+
+#repo__starsPic, #repo__forksPic {
+    width: 25px;
+    height: 25px;
+    padding: 0px 10px;
+}
+
+#error {
+    width: auto; 
+    background-color: #fbdede;
+    color: #a85053;
+    border: 1px solid #dfc2c2;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 30px 10px;
+}
